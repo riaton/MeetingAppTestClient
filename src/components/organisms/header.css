@@ -1,0 +1,10 @@
+button#headerButton{
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+div#header{
+    width: 100%;
+    height: 45px;
+    background-color: black;
+}
